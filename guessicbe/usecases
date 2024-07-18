@@ -1,0 +1,9 @@
+Admin - Select challenge
+Admin can search for an artist by name.
+Admin can select one artist.
+Admin confirm to add it into FIFO of challenges.
+
+Admin - Challenge's FIFO
+Admin retrieve the current FIFO of challenge
+Admin receives a list of next artists challenge
+
