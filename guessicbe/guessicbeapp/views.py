@@ -1,10 +1,10 @@
 from django.http import HttpResponse
+from rest_framework import status
 
-
-def hello_world(request):
-    return HttpResponse("Hello, World!")
+from guessicbeapp.models import Artist
 
 
 def search_artist_by_name(request):
     artist_name = request.GET.get('name', '')
-    return HttpResponse(f"I'll search for an artist by name: {artist_name}")
+    artists_found = Artist.objects.filter(name__icontains=artist_name)
+    return HttpResponse(artists_found, content_type='application/json', status=status.HTTP_200_OK)

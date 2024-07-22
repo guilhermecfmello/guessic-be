@@ -1,0 +1,506 @@
+[
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Anitta",
+      "debut": 2010,
+      "members": 1,
+      "popularity": 95,
+      "gender": "Female",
+      "genre": "Pop",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_33.png",
+      "city_name": "Rio de Janeiro"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Caetano Veloso",
+      "debut": 1967,
+      "members": 1,
+      "popularity": 90,
+      "gender": "Male",
+      "genre": "Tropicalia",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_29.png",
+      "city_name": "Salvador"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Gilberto Gil",
+      "debut": 1963,
+      "members": 1,
+      "popularity": 85,
+      "gender": "Male",
+      "genre": "Tropicalia",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_29.png",
+      "city_name": "Salvador"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Ivete Sangalo",
+      "debut": 1993,
+      "members": 1,
+      "popularity": 88,
+      "gender": "Female",
+      "genre": "Axé",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_29.png",
+      "city_name": "Salvador"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Marisa Monte",
+      "debut": 1989,
+      "members": 1,
+      "popularity": 82,
+      "gender": "Female",
+      "genre": "MPB",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_33.png",
+      "city_name": "Rio de Janeiro"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Luan Santana",
+      "debut": 2009,
+      "members": 1,
+      "popularity": 87,
+      "gender": "Male",
+      "genre": "Sertanejo",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_52.png",
+      "city_name": "Pelo Horizonte"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Emicida",
+      "debut": 2006,
+      "members": 1,
+      "popularity": 79,
+      "gender": "Male",
+      "genre": "Rap",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_11.png",
+      "city_name": "São Paulo"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Sandy & Junior",
+      "debut": 1990,
+      "members": 2,
+      "popularity": 83,
+      "gender": "Mixed",
+      "genre": "Pop",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_33.png",
+      "city_name": "Rio de Janeiro"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Lenine",
+      "debut": 1983,
+      "members": 1,
+      "popularity": 80,
+      "gender": "Male",
+      "genre": "MPB",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_26.png",
+      "city_name": "Recife"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Chico Buarque",
+      "debut": 1966,
+      "members": 1,
+      "popularity": 91,
+      "gender": "Male",
+      "genre": "MPB",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_33.png",
+      "city_name": "Rio de Janeiro"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "O Terno",
+      "debut": 2009,
+      "members": 3,
+      "popularity": 76,
+      "gender": "Mixed",
+      "genre": "Rock",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_11.png",
+      "city_name": "São Paulo"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Pabllo Vittar",
+      "debut": 2015,
+      "members": 1,
+      "popularity": 92,
+      "gender": "Female",
+      "genre": "Pop",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_15.png",
+      "city_name": "São Luís"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Jorge & Mateus",
+      "debut": 2005,
+      "members": 2,
+      "popularity": 84,
+      "gender": "Mixed",
+      "genre": "Sertanejo",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_52.png",
+      "city_name": "Goiânia"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Simone & Simaria",
+      "debut": 2012,
+      "members": 2,
+      "popularity": 77,
+      "gender": "Mixed",
+      "genre": "Sertanejo",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_33.png",
+      "city_name": "Salvador"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Lucas Lucco",
+      "debut": 2012,
+      "members": 1,
+      "popularity": 82,
+      "gender": "Male",
+      "genre": "Sertanejo",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_51.png",
+      "city_name": "Patrocínio"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Mamonas Assassinas",
+      "debut": 1989,
+      "members": 5,
+      "popularity": 89,
+      "gender": "Mixed",
+      "genre": "Rock",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_26.png",
+      "city_name": "São Paulo"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Legião Urbana",
+      "debut": 1982,
+      "members": 4,
+      "popularity": 91,
+      "gender": "Mixed",
+      "genre": "Rock",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_53.png",
+      "city_name": "Brasília"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Os Mutantes",
+      "debut": 1966,
+      "members": 3,
+      "popularity": 78,
+      "gender": "Mixed",
+      "genre": "Tropicalia",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_29.png",
+      "city_name": "São Paulo"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Rita Lee",
+      "debut": 1968,
+      "members": 1,
+      "popularity": 87,
+      "gender": "Female",
+      "genre": "Rock",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_26.png",
+      "city_name": "São Paulo"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Pitbull",
+      "debut": 2010,
+      "members": 1,
+      "popularity": 80,
+      "gender": "Male",
+      "genre": "Pop",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_30.png",
+      "city_name": "Porto Alegre"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Tropicália",
+      "debut": 1968,
+      "members": 3,
+      "popularity": 70,
+      "gender": "Mixed",
+      "genre": "Tropicalia",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_33.png",
+      "city_name": "São Paulo"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Adriana Calcanhotto",
+      "debut": 1990,
+      "members": 1,
+      "popularity": 83,
+      "gender": "Female",
+      "genre": "MPB",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_33.png",
+      "city_name": "Porto Alegre"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Djavan",
+      "debut": 1975,
+      "members": 1,
+      "popularity": 85,
+      "gender": "Male",
+      "genre": "MPB",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_33.png",
+      "city_name": "Maceió"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Bebel Gilberto",
+      "debut": 1991,
+      "members": 1,
+      "popularity": 79,
+      "gender": "Female",
+      "genre": "Bossa Nova",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_33.png",
+      "city_name": "Rio de Janeiro"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Zeca Pagodinho",
+      "debut": 1982,
+      "members": 1,
+      "popularity": 80,
+      "gender": "Male",
+      "genre": "Samba",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_33.png",
+      "city_name": "Rio de Janeiro"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Ana Carolina",
+      "debut": 1999,
+      "members": 1,
+      "popularity": 77,
+      "gender": "Female",
+      "genre": "MPB",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_33.png",
+      "city_name": "Belo Horizonte"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Paulinho da Viola",
+      "debut": 1965,
+      "members": 1,
+      "popularity": 84,
+      "gender": "Male",
+      "genre": "Samba",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_33.png",
+      "city_name": "Rio de Janeiro"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Nando Reis",
+      "debut": 1983,
+      "members": 1,
+      "popularity": 79,
+      "gender": "Male",
+      "genre": "MPB",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_33.png",
+      "city_name": "São Paulo"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "O Rappa",
+      "debut": 1993,
+      "members": 4,
+      "popularity": 81,
+      "gender": "Mixed",
+      "genre": "Rock",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_11.png",
+      "city_name": "São Paulo"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Jota Quest",
+      "debut": 1993,
+      "members": 4,
+      "popularity": 75,
+      "gender": "Mixed",
+      "genre": "Pop",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_11.png",
+      "city_name": "Belo Horizonte"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Mariana Aydar",
+      "debut": 2006,
+      "members": 1,
+      "popularity": 73,
+      "gender": "Female",
+      "genre": "MPB",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_33.png",
+      "city_name": "São Paulo"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Ludmilla",
+      "debut": 2012,
+      "members": 1,
+      "popularity": 88,
+      "gender": "Female",
+      "genre": "Pop",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_33.png",
+      "city_name": "Rio de Janeiro"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Duda Beat",
+      "debut": 2016,
+      "members": 1,
+      "popularity": 80,
+      "gender": "Female",
+      "genre": "Pop",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_23.png",
+      "city_name": "Recife"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Emicida",
+      "debut": 2006,
+      "members": 1,
+      "popularity": 76,
+      "gender": "Male",
+      "genre": "Rap",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_11.png",
+      "city_name": "São Paulo"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Vitor Kley",
+      "debut": 2009,
+      "members": 1,
+      "popularity": 75,
+      "gender": "Male",
+      "genre": "Pop",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_23.png",
+      "city_name": "São Luís"
+    }
+  },
+  {
+    "model": "guessicbeapp.artist",
+    "fields": {
+      "img_src": "https://png.pngtree.com/png-clipart/20210129/ourmid/pngtree-blue-default-avatar-png-image_2813123.jpg",
+      "name": "Gilberto Gil",
+      "debut": 1967,
+      "members": 1,
+      "popularity": 90,
+      "gender": "Male",
+      "genre": "MPB",
+      "city_flag": "https://datampe.sebrae.com.br/images/icons/state/state_33.png",
+      "city_name": "Salvador"
+    }
+  }
+]
